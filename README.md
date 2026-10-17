@@ -40,6 +40,7 @@ Komutlar: hareket için: h + [u/ d/ r/ l], çık
 Lütfen bir karakter seçin (Ör: P): P
 
 Oyun Başladı!
+
 P        
          
     X    
